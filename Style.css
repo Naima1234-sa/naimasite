@@ -1,0 +1,192 @@
+li{
+	background-color:rgb(0,160,250);
+	width:80px;
+	margin-right:10px;
+	text-align:center;
+	height:22px;
+	margin-top:-5px
+}
+h1{
+	background-color:rgb(0,160,250);
+	color:white;
+	margin-bottom:0px;
+	padding:10px;
+}
+ul{
+	display:flex;
+	margin-bottom:0px;
+	font-style:none;
+	list-style-type:none;
+	margin-top:10px;
+	margin-left:-40px;
+	
+}
+.page{
+margin-top:0px;
+border:1px solid blue;
+
+}
+a{
+color:white;
+text-decoration:nome;
+}
+#ang{
+	background-color:red;
+}
+#prog{
+	background-color:violet;
+}
+#sys{
+	background-color:green;
+}
+#math{
+	background-color:orange;
+}
+#algo{
+	background-color:yellow;
+}
+#tech{
+	background-color:cyan;
+}
+#gl{
+	background-color:gray;
+}
+#base{
+	background-color:brown;
+}
+#spr{
+	background-color:lightgrey;
+}
+.tableau{
+	width: 100%;
+	}
+th{	
+	background-color:blue;
+}
+label{
+	font-weight:bold;
+	display:block;
+	margin-bottom:5px;
+}
+input,textarea,button{
+	width:100%;
+	padding:10px;
+	margin-bottom:15px;
+	border:1px solid #ccc;
+}
+form{
+	max-width:500px;
+	margin:auto;
+	background:#fff;
+	padding:20px;
+	border-radius:8px;
+	box-shadow:0 0 10px rgba(0,0,0,0.1);}
+button{
+	background-color:#0056b3;
+	color:white;
+	border:nome;
+	cursor:pointer;}
+fieldset{
+	font-family:Arial,sans-serif;
+	margin:20px;
+	background-color:#f4f4f9;}
+#heure{
+	background-color:lightblue;
+}
+.square{
+	border:2px solid black;
+	display:inline-block;
+	width:20px;
+	height:20px;
+	text-align:center;
+}
+h3{
+	text-align:left;
+color:blue;
+}
+p{
+	text-align:left;
+}
+.TR {
+		height:30px;
+		text-align:center;
+		background-color:lightgrey;
+	}
+#case{
+	background-color:blue;
+}
+footer{
+	color:rgb(0,160,250);
+}
+
+img{
+		height:200px;
+		weight:200px;
+		}
+h2{
+	padding:25px;
+	border:1px solid rgb (0,37,250);
+    margin-top:0px;
+	color:blue;}
+	fieldset{
+	background-color:lightgrey;}
+	#lat{
+		background-color:rgb(1,13,20);
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2{
+	
+		
